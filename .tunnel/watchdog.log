@@ -1,0 +1,18 @@
+﻿12:26:34 Watchdog started
+12:26:35 serveo tunnel down (), restarting
+12:26:51 serveo new url: https://350f239aa5b81356-218-18-131-82.serveousercontent.com
+12:26:51 cloudflared tunnel down (), restarting
+12:27:40 cloudflared tunnel down (), restarting
+12:27:56 cloudflared new url: https://hills-rivers-mailto-omissions.trycloudflare.com
+12:36:41 serveo tunnel down (https://350f239aa5b81356-218-18-131-82.serveousercontent.com), restarting
+12:36:58 serveo new url: https://3d4860727dddf643-218-18-131-82.serveousercontent.com
+12:46:51 serveo tunnel down (https://3d4860727dddf643-218-18-131-82.serveousercontent.com), restarting
+12:47:07 serveo new url: https://c74654007fb6aa8c-218-18-131-82.serveousercontent.com
+12:57:05 serveo tunnel down (https://c74654007fb6aa8c-218-18-131-82.serveousercontent.com), restarting
+12:57:22 serveo new url: https://7d5b750afffcf3f2-218-18-131-82.serveousercontent.com
+15:06:08 Watchdog started
+15:06:09 serveo tunnel down (), restarting
+15:06:25 serveo new url: https://c88b0de1e9e084cd-218-18-131-82.serveousercontent.com
+15:06:26 cloudflared tunnel down (https://fly-belkin-must-cpu.trycloudflare.com), restarting
+15:06:42 cloudflared new url: https://channels-shaped-fields-poly.trycloudflare.com
+15:12:46 dev server down, restarting
